@@ -40,7 +40,7 @@
                     <server>tomcat7</server>
                     <username>admin</username>
                     <password>admin</password>
-                    <path>/</path>
+                    <path>/root/yzjy</path>
                 </configuration>
             </plugin>
 
