@@ -32,7 +32,7 @@
                     <server>tomcat</server>
                     <username>admin</username>
                     <password>admin</password>
-                    <path>/${project.artifactId}</path>
+                    <path>/</path>
                 </configuration>
             </plugin>
 
