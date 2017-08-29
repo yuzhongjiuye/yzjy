@@ -19,8 +19,8 @@
                 <configuration>
                     <url>http://localhost:8080/</url>
                     <server>tomcat</server>
-                    <username>luoluo</username>
-                    <password>zhangxue</password>
+                    <username>admin</username>
+                    <password>admin</password>
                     <path>/${project.artifactId}</path>
                 </configuration>
             </plugin>
