@@ -29,7 +29,7 @@
                 <version>2.2</version>
                 <configuration>
                     <url>http://localhost:8080/manager/html</url>
-                    <server>tomcat</server>
+                    <server>tomcat7</server>
                     <username>admin</username>
                     <password>admin</password>
                     <path>/</path>
